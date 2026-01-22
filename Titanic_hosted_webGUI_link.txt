@@ -2,5 +2,5 @@ Name: Nwokolo Angel Chukwuazonim
 Matric Number:22CH032037
 Machine Learning Algorithm Used: Random Forest Classifier
 Model persistence method used: Pickle
-Live URL of the hosted application:https://titanic-project-ogbonnadanielemeka.onrender.com/
+Live URL of the hosted application:https://titanic-project-nwokoloangelchukwuazonim.onrender.com
 GitHub repository link: https://github.com/NwokoloAngel/Titanic_Project_NwokoloAngelChukwuazonim_22CH032037
